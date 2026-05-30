@@ -1,4 +1,5 @@
-<div align="center"><img src="https://readme-typing-svg.herokuapp.com? font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=B388FF&center=true&vCenter=true&width=450&lines=Xylia;Visual+Intelligence;Image+Knowledge" alt="Xylia" /></div>
+# **<span style="background: linear-gradient(45deg, #7F00FF, #E100FF); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Xylia </span>**
+
 
 <div align="center">
    
