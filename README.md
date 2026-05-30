@@ -1,4 +1,5 @@
-# <div align="center"><img src="https://readme-typing-svg.herokuapp.com? font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=B388FF&center=true&vCenter=true&width=450&lines=Xylia;Visual+Intelligence;Image+Knowledge" alt="Xylia" /></div>
+<img width="740" height="415" alt="image" src="https://github.com/user-attachments/assets/fdcd2586-633c-4a71-ba11-e9747bb9a531" />
+
 
 <div align="center">
 
