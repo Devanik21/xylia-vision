@@ -1,11 +1,11 @@
 <div align="center">
    
-# **<span style="background: linear-gradient(45deg, #7F00FF, #E100FF); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Xylia </span>**
+# **<span style="background: linear-gradient(45deg, #7F00FF, #E100FF); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Xylia I </span>**
 
 
 <div align="center">
    
-<img width="740" height="415" alt="image" src="https://github.com/user-attachments/assets/fdcd2586-633c-4a71-ba11-e9747bb9a531" />
+<img width="1672" height="941" alt="ChatGPT Image Aug 7, 2026, 04_13_12 PM" src="https://github.com/user-attachments/assets/79280322-18e2-4602-baca-98f51389aef6" />
 
 
 <div align="center">
