@@ -1,7 +1,3 @@
-<div align="center">
-   
-# **<span style="background: linear-gradient(45deg, #7F00FF, #E100FF); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Xylia I </span>**
-
 
 <div align="center">
    
