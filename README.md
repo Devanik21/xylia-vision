@@ -5,8 +5,7 @@
 
 <div align="center">
    
-<img width="1672" height="941" alt="ChatGPT Image Aug 7, 2026, 04_13_12 PM" src="https://github.com/user-attachments/assets/79280322-18e2-4602-baca-98f51389aef6" />
-
+<img width="1672" height="941" alt="ChatGPT Image Aug 7, 2026, 04_17_51 PM" src="https://github.com/user-attachments/assets/134cf45a-04bb-4c55-9d70-8c4dcfb4d795" />
 
 <div align="center">
 
