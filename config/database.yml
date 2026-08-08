@@ -1,0 +1,11 @@
+development:
+  adapter: tinydb
+  database: data/development.json
+
+test:
+  adapter: tinydb
+  database: data/test.json
+
+production:
+  adapter: tinydb
+  database: data/production.json
